@@ -31,7 +31,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # TheSecondClassroom
 HZIEE β-house the second classroom-web
 
-## 快速开始
+## RuoYi-Vue快速开始
 
 **请保证 Node.js 版本 > 10** ⚠️
 ### 通过http://doc.ruoyi.vip/ruoyi/document/hjbs.html#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C快速了解如何启动项目
