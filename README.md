@@ -29,12 +29,12 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # TheSecondClassroom
-HZIEE β-house the second classroom-web
+第二课堂
 
 ## RuoYi-Vue快速开始
 
 **请保证 Node.js 版本 > 10** ⚠️
-### 通过http://doc.ruoyi.vip/ruoyi/document/hjbs.html#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C快速了解如何启动项目
+### 通过[ruoyi](http://doc.ruoyi.vip/ruoyi/document/hjbs.html#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)快速了解如何启动项目
 
 1. 下载项目到本地
 
